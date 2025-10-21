@@ -1,0 +1,18 @@
+aws-secure-infrastructure/
+├── README.md                     
+├── docs/
+│   ├── architecture.md           
+│   ├── security-implementation.md
+│   ├── deployment-steps.md      
+│   └── lessons-learned.md       
+├── diagrams/
+│   └── architecture.png          
+├── screenshots/
+│   ├── vpc/
+│   ├── ec2/
+│   ├── iam/
+│   └── s3/
+├── scripts/
+│   └── user-data.sh              
+└── s3-website/
+    └── index.html
