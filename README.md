@@ -11,7 +11,7 @@ role-based access control.
 **Impact**: Zero-trust network supporting 250+ IPs per subnet with 
 defense-in-depth security—production-ready in 7 days.
 
-[Architecture Diagram Coming] ![Infrastructure Architecture Diagram](Infrastructure%20Architecture%20v1.0.jpeg)
+[Architecture Diagram Coming] 
 
 
 ## Tech Stack
