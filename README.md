@@ -11,10 +11,8 @@ role-based access control.
 **Impact**: Zero-trust network supporting 250+ IPs per subnet with 
 defense-in-depth security—production-ready in 7 days.
 
-[Architecture Diagram Coming] ![Infrastructure Architecture](Infrastructure%20Architecture%20%20.jpeg)
-
-![Infrastructure Architecture](Infrastructure%20Architecture%20%20.jpeg)
-
+[Architecture Diagram Coming] 
+![Infrastructure Architecture](Infrastructure%20Architecture%20.jpeg)
 
 ## Tech Stack
 AWS VPC | EC2 | IAM | S3 | Security Groups | NACLs | NAT Gateway
