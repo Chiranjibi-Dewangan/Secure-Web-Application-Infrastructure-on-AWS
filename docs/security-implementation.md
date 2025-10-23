@@ -193,11 +193,17 @@ security standards and could pass basic compliance audits.
 ## Security Best Practices Implemented
 
  **Least Privilege**: SSH limited to admin IP, not world  
+ 
  **Source-Based Security**: Private SG references public SG, not IPs  
+ 
  **Defense-in-Depth**: NACL + Security Group layers  
+ 
  **Bastion Pattern**: Private instances accessible only via jump box  
+ 
  **Stateful Where Possible**: Security Groups simplify rule management  
+ 
  **Deny by Default**: Both NACLs and SGs deny unless explicitly allowed  
+ 
  **Subnet Isolation**: NACLs ensure subnet-level boundaries  
 
 **Production Readiness**: This multi-layer security approach meets enterprise standards and basic compliance requirements.standards and basic compliance requirements.[1]
