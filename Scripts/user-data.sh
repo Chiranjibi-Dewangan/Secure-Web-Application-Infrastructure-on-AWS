@@ -4,7 +4,7 @@ yum install nginx -y
 systemctl start nginx
 systemctl enable nginx
 
-# Create custom landing page
+#  custom landing page
 
 cat <<'EOF' | sudo tee /usr/share/nginx/html/index.html > /dev/null
 <!DOCTYPE html>
