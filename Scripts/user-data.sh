@@ -136,10 +136,10 @@ cat <<'EOF' | sudo tee /usr/share/nginx/html/index.html > /dev/null
         <div class="status-badge"> Multi-layer security operational</div>
 
         <div class="cta-buttons">
-            <a href="https://github.com/yourusername/aws-secure-infrastructure" class="button button-primary">
+            <a href="https://github.com/Chiranjibi-Dewangan/Secure-Web-Application-Infrastructure-on-AWS" class="button button-primary">
                  View Full Documentation
             </a>
-            <a href="https://linkedin.com/in/yourprofile" class="button button-secondary">
+            <a href="https://linkedin.com/in/chiranjibi-dewangan" class="button button-secondary">
                  Connect on LinkedIn
             </a>
         </div>
